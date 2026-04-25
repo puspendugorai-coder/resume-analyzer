@@ -1,4 +1,4 @@
-# 🚀 MNC Resume Optimizer 2028
+# 🚀 MNC Resume Analyzer
 ### AI-Powered Resume Analysis Engine · Groq + LangChain + FAISS + HuggingFace
 
 <b>[**CLICK HERE TO OPEN**](http://localhost:8501)</b>
