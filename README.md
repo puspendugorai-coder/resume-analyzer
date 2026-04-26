@@ -1,7 +1,7 @@
 # 🚀 MNC Resume Analyzer
 ### AI-Powered Resume Analysis Engine · Groq + LangChain + FAISS + HuggingFace
 
-<b>[**CLICK HERE TO OPEN**](http://localhost:8501)</b>
+<b>[**CLICK HERE TO OPEN**](https://mnc-resume-optimizer.streamlit.app/)</b>
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red?logo=streamlit)
@@ -70,7 +70,7 @@ GROQ_API_KEY=gsk_your_secure_key_here
 ```bash
 streamlit run app.py
 ```
-Then, [**Click here to open**](http://localhost:8501) in your browser.
+Then, [**Click here to open**](https://mnc-resume-optimizer.streamlit.app/) in your browser.
 
 ---
 
